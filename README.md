@@ -57,7 +57,7 @@
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&theme=github_dark&langs_count=8&exclude_repo=computer-graphics-labs&hide=html,css&layout=compact" />
 </div>
 
-## Projects
+## Projects and Laboratory Classes
 <details>
   <summary>Projects</summary>
   <ul>
