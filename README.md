@@ -51,6 +51,6 @@
 </div>
 
 ## GitHub Stats
-![igordzierwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=igordzierwa&count_private=true&show_icons=true&theme=github_dark&hide=issues,contribs,stars)
+[![igordzierwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=igordzierwa&count_private=true&show_icons=true&theme=github_dark&hide=issues,contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&theme=github_dark&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&theme=github_dark&exclude_repo=computer-graphics-labs&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
