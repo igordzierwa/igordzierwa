@@ -52,8 +52,8 @@
 
 ## GitHub Stats
 <div class='container'>
-  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=igordzierwa&show_icons=true&count_private=true&hide=issues,contribs&theme=tokyonight" />
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=igordzierwa&show_icons=true&count_private=true&theme=github_dark" />
   &nbsp;
   &nbsp;
-  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&theme=tokyonight&langs_count=8&exclude_repo=computer-graphics-labs&hide=html,css&layout=compact" />
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&theme=github_dark&langs_count=8&exclude_repo=computer-graphics-labs&hide=html,css&layout=compact" />
 </div>
