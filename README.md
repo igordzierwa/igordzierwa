@@ -53,4 +53,4 @@
 ## GitHub Stats
 ![igordzierwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=igordzierwa&count_private=true&show_icons=true&theme=github_dark&hide=prs,issues,contribs,stars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
