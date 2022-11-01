@@ -1,7 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=igordzierwa)
 [![Github](https://img.shields.io/github/followers/igordzierwa?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
-
 ## Languages and Tools
 #### Languages
 <div>
@@ -57,3 +56,52 @@
   &nbsp;
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&theme=github_dark&langs_count=8&exclude_repo=computer-graphics-labs&hide=html,css&layout=compact" />
 </div>
+
+## Projects
+<details>
+  <summary>Projects</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/igordzierwa/student-internships-system-project">System Supporting Student Internships (Engineer Thesis)</a> - web application supporting the whole process of the student internships, written using Spring (Backend) and Vue.js (Frontend).
+    </li>
+    <li>
+      <a href="https://github.com/igordzierwa/cypress-api-automation">API Test Aumation using Cypress (TypeScript)</a> - tests of several controllers using similar approach to Page Object Pattern.
+    </li>
+    <li>
+      <a href="https://github.com/igordzierwa/java-to-python-translator-project">Java to Python Translator</a> - translator is written using Java and ANTLR.
+    </li>
+    <li>
+      <a href="https://github.com/igordzierwa/databases-northwind-project">Northwind database using MongoDB</a> - implementation of the well-known Northwind database using MongoDB and Spring.
+    </li>
+    <li>
+      <a href="https://github.com/igordzierwa/bookstore-microservices-project">Bookstore using Microservices</a> - backend (Spring) implementation of the bookstore activities using microsevices approach.
+    </li>
+    <li>
+      <a href="https://github.com/igordzierwa/librario-project">Librario</a> - web application supporting the library activities, written using Spring (Backend) and Vue.js (Frontend).
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>Laboratory Classes from Engineering Studies</summary>
+  <ul>
+    <li>
+      <a href="https://github.com/igordzierwa/database-frameworks-labs"/>Database Frameworks
+    </li>
+    <li>
+      <a href="https://github.com/igordzierwa/operating-systems-labs">Operating Systems</a>
+    </li>
+    <li>
+      <a href="https://github.com/igordzierwa/computer-graphics-labs">Computer Graphics</a>
+    </li>
+    <li>
+      <a href="https://github.com/igordzierwa/snake-game-project">Introduction to Computer Science - Snake Game</a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>Laboratory Classes from Mastering Studies</summary>
+</details>
+
+
