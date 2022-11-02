@@ -69,18 +69,23 @@
     <li>
       <a href="https://github.com/igordzierwa/student-internships-system-project">System Supporting Student Internships (Engineer Thesis)</a> - web application supporting the whole process of the student internships, written using Spring (Backend) and Vue.js (Frontend).
     </li>
+    <br/>
     <li>
       <a href="https://github.com/igordzierwa/cypress-api-automation">API Test Aumation using Cypress (TypeScript)</a> - tests of several controllers using similar approach to Page Object Pattern.
     </li>
+    <br/>
     <li>
       <a href="https://github.com/igordzierwa/java-to-python-translator-project">Java to Python Translator</a> - translator is written using Java and ANTLR.
     </li>
+    <br/>
     <li>
       <a href="https://github.com/igordzierwa/databases-northwind-project">Northwind database using MongoDB</a> - implementation of the well-known Northwind database using MongoDB and Spring.
     </li>
+    <br/>
     <li>
       <a href="https://github.com/igordzierwa/bookstore-microservices-project">Bookstore using Microservices</a> - backend (Spring) implementation of the bookstore activities using microsevices approach.
     </li>
+    <br/>
     <li>
       <a href="https://github.com/igordzierwa/librario-project">Librario</a> - web application supporting the library activities, written using Spring (Backend) and Vue.js (Frontend).
     </li>
@@ -93,12 +98,15 @@
     <li>
       <a href="https://github.com/igordzierwa/database-frameworks-labs"/>Database Frameworks
     </li>
+    <br/>
     <li>
       <a href="https://github.com/igordzierwa/operating-systems-labs">Operating Systems</a>
     </li>
+    <br/>
     <li>
       <a href="https://github.com/igordzierwa/computer-graphics-labs">Computer Graphics</a>
     </li>
+    <br/>
     <li>
       <a href="https://github.com/igordzierwa/snake-game-project">Introduction to Computer Science - Snake Game</a>
     </li>
