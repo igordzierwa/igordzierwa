@@ -51,9 +51,8 @@
 
 ## GitHub Stats
 <div class='container'>
-  <img style="height: auto; width: 47%;" class="img" src="https://github-readme-stats.vercel.app/api?username=igordzierwa&show_icons=true&count_private=true&theme=github_dark" />
-  &nbsp;
-  <img style="height: auto; width: 47%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=igordzierwa&theme=github-dark-blue" />
+  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=igordzierwa&show_icons=true&count_private=true&theme=github_dark" />
+  <img style="height: auto; width: 48%;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=igordzierwa&theme=github-dark-blue" />
 </div>
 <p align="center">
   <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igordzierwa&theme=github_dark&langs_count=8&exclude_repo=computer-graphics-labs&hide=html,css&layout=compact" />
