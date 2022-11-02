@@ -1,6 +1,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=igordzierwa)
 [![Github](https://img.shields.io/github/followers/igordzierwa?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
+<div align="center">
+  <h1 style="text-align:center">Hi, I'm Igor 👋</h1>
+</div>
+
 ## Languages and Tools
 #### Languages
 <div>
