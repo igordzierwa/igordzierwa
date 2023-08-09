@@ -99,7 +99,7 @@ https://github.com/Ileriayo/markdown-badges
   <summary>Laboratory Classes from Engineering Studies</summary>
   <ul>
     <li>
-      <a href="https://github.com/igordzierwa/database-frameworks-labs"/>Database Frameworks
+      <a href="https://github.com/igordzierwa/database-frameworks-labs">Database Frameworks</a>
     </li>
     <br/>
     <li>
@@ -118,6 +118,16 @@ https://github.com/Ileriayo/markdown-badges
 
 <details>
   <summary>Laboratory Classes from Mastering Studies</summary>
+    <ul>
+    <li>
+      <a href="https://github.com/igordzierwa/knowledge-discovery-methods-labs">Knowledge discovery methods</a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="https://github.com/igordzierwa/deep-learning-labs">Neural network & deep learning</a>
+    </li>
+  </ul>
 </details>
 
 ## Contact with me
